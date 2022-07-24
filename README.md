@@ -1,10 +1,12 @@
-<img align="left" height="185" src="https://i.imgur.com/sfznHGR.jpeg"/>
+<img align="left" height="165" src="https://i.imgur.com/sfznHGR.jpeg"/>
 
+```diff
+~/ fetch
 
-
-@@novice programming student@@
+@@novice p student@@
 + he/him/his
-- live in east java, indonesia
-! coffee drinkers, sleep expert and time traveler
-# 📖 machine learning, computer science
+- live in London, UK
+! tea drinker, psychologist, ux/ui designer
+# 📖 kali linux - macOS - Windows user
+% h3llcoin - solana blockchain
 ```
