@@ -1,7 +1,6 @@
 <img align="left" height="185" src="https://i.imgur.com/sfznHGR.jpeg"/>
 
-```diff
-~/ fetch
+
 
 @@novice programming student@@
 + he/him/his
