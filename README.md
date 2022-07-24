@@ -1,4 +1,4 @@
-<img align="left" height="185" src="https://i.imgur.com/7yOSEas.gif"/>
+<img align="left" height="185" src="https://imgur.com/gallery/sfznHGR"/>
 
 ```diff
 ~/ fetch
