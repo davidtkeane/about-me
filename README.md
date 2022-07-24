@@ -3,7 +3,7 @@
 ```diff
 ~/ fetch
 
-@@novice student of learning@@
+@@ student of learning @@
 + he/him/his
 - live in London, UK
 ! tea drinker, psychologist, ux/ui designer
