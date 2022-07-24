@@ -5,8 +5,8 @@
 
 @@ student of learning @@
 + he/him/his
-- live in London, UK
+- live in london, UK
 ! tea drinker, psychologist, ux/ui designer
-# 📖 kali linux - macOS - Windows user
+# 📖 kali linux - macOS - windows user
 + h3llcoin - solana blockchain
 ```
