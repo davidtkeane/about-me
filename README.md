@@ -1,6 +1,6 @@
 <img align="left" height="220" src="https://i.imgur.com/sfznHGR.jpeg"/>
-```diff
 
+```diff
 @@ student of learning @@
 
 + he/him/his
