@@ -7,6 +7,7 @@
 + he/him/his
 - live in london, UK
 ! tea drinker, psychologist, ux/ui designer
-# 📖 kali linux - macOS - windows user
-+ h3llcoin - solana blockchain
+! WordPress, HTML, Python, Bash Scripts
+# 📖 kali linux - macOS - Windows
++ Creator of h3llcoin - solana blockchain
 ```
