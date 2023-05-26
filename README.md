@@ -2,9 +2,8 @@
 
 ```diff
 
-~/ fetch
-
 @@ student of learning @@
+
 + he/him/his
 - live in london, UK
 ! tea drinker, psychologist, ux/ui designer
