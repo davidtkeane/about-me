@@ -3,8 +3,7 @@
 ```diff
 @@ student of learning @@
 
-+ he/him/his
-- live in london, UK
+- live in Dublin, IRE
 ! tea drinker, Applied Psychologist, UX/UI Designer
 ! WordPress, HTML, Python, Bash Scripts
 # 📖 kali linux - macOS - Windows
