@@ -1,7 +1,8 @@
 <img align="left" height="220" src="https://i.imgur.com/sfznHGR.jpeg"/>
 
-```diff ~/ fetch
+```diff
 
+~/ fetch
 
 @@ student of learning @@
 + he/him/his
