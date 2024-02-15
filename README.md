@@ -1,4 +1,4 @@
-<img align="left" height="220" src="[https://i.imgur.com/sfznHGR.jpeg](https://i.imgur.com/JsNXH2T.jpeg)"/>
+<img align="left" height="220" src="https://i.imgur.com/JsNXH2T.jpeg"/>
 
 ```diff
 @@ student of learning @@
