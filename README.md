@@ -7,6 +7,7 @@
 ! WordPress, HTML, Python, Bash Scripts
 # 📖 kali linux - macOS - Windows
 + Creator of h3llcoin - solana blockchain
+
 # 📖 https://icanhelp.ie/ 📖 https://forgiveme.life/
  
 ```
