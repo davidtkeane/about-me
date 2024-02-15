@@ -1,6 +1,6 @@
 <img align="left" height="220" src="https://i.imgur.com/JsNXH2T.jpeg"/>
-
 ```diff
+
 @@ student of learning @@
 
 - live in Dublin, IRE
