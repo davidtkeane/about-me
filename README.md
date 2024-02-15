@@ -8,6 +8,6 @@
 ! WordPress, HTML, Python, Bash Scripts
 # 📖 kali linux - macOS - Windows
 + Creator of h3llcoin - solana blockchain
-# 📖 https://davidtkeane.ie/ 📖 https://icanhelp.ie/ 📖 https://forgiveme.life/ 
-# 📖 https://silvercoins.ie/ 📖 https://psychologybookshop.com/
+# 📖 https://davidtkeane.com/ 📖 https://icanhelp.ie/ 
+# 📖 https://forgiveme.life/ 
 ```
